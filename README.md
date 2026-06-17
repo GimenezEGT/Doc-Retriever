@@ -1,5 +1,9 @@
 # Doc-Retriever
 
+
+<img width="2816" height="1536" alt="DocRetriever" src="https://github.com/user-attachments/assets/aea32b8f-40d2-466f-b261-12411c983c5e" />
+
+
 A small CLI tool to download a website's documentation, convert the collected HTML into clean Markdown, and merge everything into a single `.md` file.
 
 > Note: The script and flags are written in Portuguese (`--saida`, `--manter`)—this README explains them in English while keeping the exact flag names used by the script.
